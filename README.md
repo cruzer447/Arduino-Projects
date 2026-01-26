@@ -24,5 +24,6 @@ Each project is organized in its own folder with:
   - Sensors (DHT11/DHT22, Ultrasonic, IR, etc.)  
   - Displays (LCD, OLED)  
   - Motors & Relays  
-
+## CHECK OUT MY PROJECTS!!! 
+- **MY WOKWI PORTFOLIO** : https://wokwi.com/makers/machinemaster23
 
