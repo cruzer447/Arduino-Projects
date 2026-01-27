@@ -25,5 +25,6 @@ Each project is organized in its own folder with:
   - Displays (LCD, OLED)  
   - Motors & Relays  
 ## CHECK OUT MY PROJECTS!!! 
-- **MY WOKWI PORTFOLIO** : https://wokwi.com/makers/machinemaster23
+- **MY WOKWI PORTFOLIO** : [Wokwi- sys_shreyansh](https://wokwi.com/makers/sys_shreyansh)
+- **MY TINKERCAD PORTFOLIO** : [TinkerCad- ShreyanshSys](https://www.tinkercad.com/users/gymTMXRkbGh-shreyanshsys)
 
